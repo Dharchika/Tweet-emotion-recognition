@@ -1,4 +1,4 @@
-# Tweet-emotion-recognition
+# Tweet-emotion-recognition-using-tensorflow
 TWEET EMOTION RECOGNITION USING TENSORFLOW
 
 COURSE OBJECTIVES:
